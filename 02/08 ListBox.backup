@@ -1,0 +1,22 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>  
+  
+  <ListBox>
+    <ListBoxItem Content="Item 2"/>
+    <ListBoxItem Content="Item 2"/>
+    <ListBoxItem Content="Item 1"/>
+    <ListBoxItem Content="Item 1"/>
+  </ListBox>
+  
+  <ListBox>
+    <ListBoxItem Content="Item 2"/>
+    <ListBoxItem Content="Item 2"/>
+    <ListBoxItem Content="Item 1"/>
+    <ListBoxItem Content="Item 1"/>
+  </ListBox>
+  
+  </Grid>
+</Page>
+
